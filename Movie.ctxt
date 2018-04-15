@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Movie
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Movie\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Movie()
+comment10.params=
+comment10.target=double\ getDuration()
+comment2.params=newName\ newDirector\ newFilesize\ newDuration
+comment2.target=Movie(java.lang.String,\ java.lang.String,\ double,\ double)
+comment3.params=newName
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=newDirector
+comment5.target=void\ setDirector(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getDirector()
+comment7.params=newFilesize
+comment7.target=void\ setFilesize(double)
+comment8.params=
+comment8.target=double\ getFilesize()
+comment9.params=newDuration
+comment9.target=void\ setDuration(double)
+numComments=11
